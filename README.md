@@ -6,6 +6,12 @@ A RAG-powered video search system using TwelveLabs API with semantic search and 
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
+## Live Demo
+
+**[Try it live on Streamlit Cloud](https://video-content-discovery-mbjtnd4gv98cvfmr8wuz8r.streamlit.app/)**
+
+> Requires a free TwelveLabs API key - [Sign up here](https://api.twelvelabs.io)
+
 ## Features
 
 - **Semantic Video Search** - Find specific moments in videos using natural language
