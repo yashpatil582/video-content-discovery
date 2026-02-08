@@ -12,6 +12,22 @@ A RAG-powered video search system using TwelveLabs API with semantic search and 
 
 > Requires a free TwelveLabs API key - [Sign up here](https://api.twelvelabs.io)
 
+![Demo](assets/screenshots/demo.gif)
+
+## Screenshots
+
+### Search Interface
+![Search Interface](assets/screenshots/search-interface.png)
+*Natural language search across your video library*
+
+### Search Results with Timestamps
+![Search Results](assets/screenshots/search-results.png)
+*Results ranked by confidence with clickable timestamps*
+
+### Video Library
+![Video Library](assets/screenshots/video-library.png)
+*Manage your indexed video collection*
+
 ## Features
 
 - **Semantic Video Search** - Find specific moments in videos using natural language
@@ -56,7 +72,7 @@ Results:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/video-content-discovery.git
+git clone https://github.com/yashpatil582/video-content-discovery.git
 cd video-content-discovery
 
 # Create virtual environment
@@ -211,6 +227,12 @@ pytest tests/ --cov=src --cov-report=html
 - **[FAISS](https://github.com/facebookresearch/faiss)** - Vector similarity search
 - **[Streamlit](https://streamlit.io)** - Web UI framework
 - **[LangChain](https://langchain.com)** - RAG orchestration
+
+## Author
+
+**Yash Patil**
+- GitHub: [@yashpatil582](https://github.com/yashpatil582)
+- LinkedIn: [yashpatil23](https://www.linkedin.com/in/yashpatil23/)
 
 ## License
 
